@@ -1,4 +1,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/malekbig/angularNB/badge.svg?branch=master)](https://coveralls.io/github/malekbig/angularNB?branch=master)
+[![Build Status](https://www.travis-ci.org/malekbig/angularNB.svg?branch=master)](https://www.travis-ci.org/malekbig/angularNB)
 
 # AngularNB
 
